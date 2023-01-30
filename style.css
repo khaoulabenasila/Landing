@@ -22,7 +22,7 @@ p {
 
 .banner {
   background-image: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)),
-    url("images/background.jpg");
+    url("images/back.jpg");
   background-size: cover;
   background-position: center;
   padding: 150px 0;
@@ -41,7 +41,7 @@ p {
 }
 
 .button-blue {
-  background-color: #1a48e3;
+  background-color: #439a97;
   color: white;
   padding: 16px 48px;
   border-radius: 4px;
@@ -51,7 +51,7 @@ p {
 }
 
 .button-blue:hover {
-  background-color: #0d1ec6;
+  background-color: #c0eee4;
   color: white;
 }
 
@@ -77,9 +77,10 @@ p {
 }
 
 .footer {
+  margin-top: 20px;
   background: #404042;
   text-align: center;
-  padding: 24px 0;
+  padding: 4px 0;
 }
 
 .footer p {
